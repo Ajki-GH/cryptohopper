@@ -43,15 +43,15 @@ Kripto Slovenija discord: https://discord.me/kriptoslovenija
 * Take profit at: 25
 * Order type: Market
 * Max open time sell: 3
-* 
+
 **Sell strategy**
 * Sell based on strategy: disabled
 * Hold assets when new target is the same: enabled  
-* 
+ 
 * **Stop-loss**
 * Enable: enabled 
 * Stop-loss percentage: 8 
-* 
+ 
 **Trailing stop-loss**
 * Enable: enabled 
 * Trailing stop-loss percentage: 1
@@ -59,13 +59,13 @@ Kripto Slovenija discord: https://discord.me/kriptoslovenija
 * Use trailing stop-loss only: enabled 
 * Reset stop-loss after failed orders: enabled 
 * Only sell with profit: enabled
-* 
+ 
 **Auto Close**
 * Enable: disabled 
-* 
+ 
 ***Shorting**
 * disabled
-* 
+ 
 **Dollar Cost Averaging (DCA)**
 * Enable: Enabled 
 * Order type: Market
