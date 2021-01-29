@@ -1,4 +1,5 @@
 # cryptohopper config 
+Updated: 29.01.2021
 Get Cryptohopper: https://www.cryptohopper.com/?atid=16131
 
 Cryptohopper discord: https://discord.com/invite/qdv6RJx
@@ -36,7 +37,7 @@ Kripto Slovenija discord: https://discord.me/kriptoslovenija
 * Number of targets to buy: 3
 
 **Trailing stop-buy**
-Enable: disabled
+* Enable: disabled
 
 **Sell settings**
 * Take profit at: 25
