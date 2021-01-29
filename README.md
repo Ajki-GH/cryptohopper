@@ -48,7 +48,7 @@ Kripto Slovenija discord: https://discord.me/kriptoslovenija
 * Sell based on strategy: disabled
 * Hold assets when new target is the same: enabled  
  
-* **Stop-loss**
+**Stop-loss**
 * Enable: enabled 
 * Stop-loss percentage: 8 
  
